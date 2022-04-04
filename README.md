@@ -4,7 +4,7 @@
 3. Recycler view inside a card view.
 4. click event is handled on view to open the detailed site of news in webview.
 5. Mobile webview with a progress bar.
-6. Gson coverter library is used to convert Json objects to Java objects.
+6. Gson converter library is used to convert Json objects to Java objects.
 
 <img src = "https://user-images.githubusercontent.com/102464852/161473608-1494eca5-025f-4970-bb22-6750ec2310d2.jpg" width = "250" height = "500">                    <img src = "https://user-images.githubusercontent.com/102464852/161473679-9953b5c2-968c-46ea-bec6-961faa4f94c8.jpg" width = "250" height = "500">
 
